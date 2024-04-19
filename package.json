@@ -1,0 +1,9 @@
+{
+  "name": "solana-key-pair",
+  "version": "1.0.0",
+  "description": "A solana program to generate key pair values",
+  "main": "index.js",
+  "repository": "https://github.com/neeleshroy2023/solana-key-pair.git",
+  "author": "neeleshroy2023 <neelesh.roy@layrins.com>",
+  "license": "MIT"
+}
