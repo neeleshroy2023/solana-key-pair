@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/neeleshroy2023/solana-key-pair.git",
   "author": "neeleshroy2023 <neelesh.roy@layrins.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
+    "@solana/web3.js": "^1.91.7",
+    "esrun": "^3.2.26",
+    "typescript": "^5.4.5"
+  }
 }
