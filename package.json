@@ -6,6 +6,11 @@
   "repository": "https://github.com/neeleshroy2023/solana-key-pair.git",
   "author": "neeleshroy2023 <neelesh.roy@layrins.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "esrun index.ts",
+    "dev": "npx esrun generate-keypair.ts"
+  },
   "dependencies": {
     "@solana-developers/helpers": "^2.3.0",
     "@solana/web3.js": "^1.91.7",
