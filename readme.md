@@ -5,8 +5,8 @@ This Node.js script loads a Solana keypair from the environment using `dotenv` a
 ## Setup
 
 1. Install Node.js (if not already installed): [Node.js Download](https://nodejs.org/en/download/)
-2. Clone this repository: `git clone https://github.com/your/repository.git`
-3. Install dependencies: `npm install`
+2. Clone this repository:
+3. Install dependencies: `yarn`
 4. Create a `.env` file in the root directory and add your Solana secret key:
 
    ```
